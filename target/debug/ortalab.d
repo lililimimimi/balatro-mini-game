@@ -1,0 +1,1 @@
+/Users/myadmin/Desktop/6991/a1/ortalab/target/debug/ortalab: /Users/myadmin/Desktop/6991/a1/ortalab/src/joker.rs /Users/myadmin/Desktop/6991/a1/ortalab/src/main.rs /Users/myadmin/Desktop/6991/a1/ortalab/src/modifiers.rs /Users/myadmin/Desktop/6991/a1/ortalab/src/pokerhand.rs /Users/myadmin/Desktop/6991/a1/ortalab/src/score.rs

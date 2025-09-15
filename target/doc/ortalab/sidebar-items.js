@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["main","parse_round"],"mod":["joker","modifiers","pokerhand","score"],"struct":["Opts"]};

@@ -1,0 +1,9 @@
+(function() {
+    var implementors = Object.fromEntries([["enum_iterator",[]],["ortalib",[["impl <a class=\"trait\" href=\"enum_iterator/trait.Sequence.html\" title=\"trait enum_iterator::Sequence\">Sequence</a> for <a class=\"enum\" href=\"ortalib/enum.Edition.html\" title=\"enum ortalib::Edition\">Edition</a>"],["impl <a class=\"trait\" href=\"enum_iterator/trait.Sequence.html\" title=\"trait enum_iterator::Sequence\">Sequence</a> for <a class=\"enum\" href=\"ortalib/enum.Enhancement.html\" title=\"enum ortalib::Enhancement\">Enhancement</a>"],["impl <a class=\"trait\" href=\"enum_iterator/trait.Sequence.html\" title=\"trait enum_iterator::Sequence\">Sequence</a> for <a class=\"enum\" href=\"ortalib/enum.Joker.html\" title=\"enum ortalib::Joker\">Joker</a>"],["impl <a class=\"trait\" href=\"enum_iterator/trait.Sequence.html\" title=\"trait enum_iterator::Sequence\">Sequence</a> for <a class=\"enum\" href=\"ortalib/enum.PokerHand.html\" title=\"enum ortalib::PokerHand\">PokerHand</a>"],["impl <a class=\"trait\" href=\"enum_iterator/trait.Sequence.html\" title=\"trait enum_iterator::Sequence\">Sequence</a> for <a class=\"enum\" href=\"ortalib/enum.Rank.html\" title=\"enum ortalib::Rank\">Rank</a>"],["impl <a class=\"trait\" href=\"enum_iterator/trait.Sequence.html\" title=\"trait enum_iterator::Sequence\">Sequence</a> for <a class=\"enum\" href=\"ortalib/enum.Suit.html\" title=\"enum ortalib::Suit\">Suit</a>"],["impl <a class=\"trait\" href=\"enum_iterator/trait.Sequence.html\" title=\"trait enum_iterator::Sequence\">Sequence</a> for <a class=\"enum\" href=\"ortalib/enum.SuitColor.html\" title=\"enum ortalib::SuitColor\">SuitColor</a>"]]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":57,"fragment_lengths":[20,1589]}
